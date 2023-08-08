@@ -2,7 +2,7 @@
 # Suicide Comments Detection 
 
 ### Contributors 
-Erin Reed, Jordan Fan, Shaki Pothini
+Erin Smith, Jordan Fan, Shaki Pothini
 
 ## About / Synopsis 
 
